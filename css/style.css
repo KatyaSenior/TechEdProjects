@@ -1,17 +1,26 @@
 header {
-  position: absolute;
+  display: flex;
+  justify-content: flex-start;
   top: 0;
   width: 100%;
   background-color: brown;
 }
 
-body {
-  background-color: cornflowerblue;
+.nav_link {
+  color: rgb(115, 41, 184);
+}
+
+.nav_link:hover {
+  color: rgb(171, 203, 237);
 }
 
 #light_or_dark {
-  position: absolute;
-  right: 0;
+  display: flex;
+  align-self: flex-end;
+}
+
+body {
+  background-color: cornflowerblue;
 }
 
 footer {
