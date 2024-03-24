@@ -82,7 +82,13 @@ a:-webkit-any-link {
 }
 
 #light_or_dark {
-  justify-content: flex-end;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.images {
+  visibility: visible;
 }
 
 .image-galaxy {
