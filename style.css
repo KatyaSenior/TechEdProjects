@@ -86,6 +86,11 @@ a:-webkit-any-link {
   top: 0px;
   left: 0px;
 }
+#music_button {
+  position: absolute;
+  top: 0px;
+  left: 80px;
+}
 
 .images {
   visibility: visible;

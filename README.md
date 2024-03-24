@@ -14,4 +14,4 @@ I also relied on the website W3Schools.
 
 I wanted to use javascript to change the images to hidden so as to leave a white background as the site's light mode, but I wasn't sure how to target the visibility within a class. I will work on this for future.
 
-I have acheived the stretch goal of adding audio.
+I attempted the stretch goal of adding audio via javascript but only to partial success. This and my aforementioned issue with javascript tell me that I am not yet confident in the coding language and need more practice, or to ask someone to talk through the syntax with me.

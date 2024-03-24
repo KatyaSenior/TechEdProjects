@@ -1,11 +1,5 @@
 console.log("hello world");
 
-const audio = document.querySelector("audio");
-
-audio.addEventListener("play", function (event) {
-  console.log("Playing", event);
-});
-
 let bg_color = "space";
 console.log(bg_color);
 
@@ -23,3 +17,13 @@ document.addEventListener("click", function (event) {
     console.log(bg_color);
   }
 });
+
+var x = document.getElementById("mars");
+
+function playAudio() {
+  x.play();
+}
+
+function pauseAudio() {
+  x.pause();
+}
